@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.COTRunner" parent="Theme.AppCompat.DayNight.NoActionBar" />
+</resources>
